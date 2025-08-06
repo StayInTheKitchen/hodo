@@ -23,6 +23,7 @@
 
 #define END_READ                0
 #define NOTHING_FOUND           0
+#define EMPTY_CHECKED           1
 
 #define ZONEFS_TRACE() pr_info("zonefs: >>> %s called\n", __func__)
 
